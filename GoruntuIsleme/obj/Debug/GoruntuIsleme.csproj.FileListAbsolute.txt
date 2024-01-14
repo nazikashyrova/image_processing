@@ -1,0 +1,85 @@
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.AssemblyReference.cache
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.cache
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form18.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form20.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta5_6a.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta5_7.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Fhafta10_1.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta1_7.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta1_8.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta5_1.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta5_2.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta5_3.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta5_4.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta5_5.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta1_1.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta1_2.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta1_3.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta1_4.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta1_5.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta1_6.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta10_2.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta10_3.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta10_4.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta2_1.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta2_2.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta6_1.resources
+C:\Users\beyza\Desktop\4.SINIF GÜZ\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta7_5.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.AssemblyReference.cache
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Fhafta10_1.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta1_7.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta1_8.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta5_1.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta5_2.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta5_3.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta5_4.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta5_5.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form18.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form20.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta1_1.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta1_2.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta1_3.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta1_4.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta1_5.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta1_6.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta10_2.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta10_3.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta10_4.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta2_1.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta2_2.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta5_6a.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta5_7.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta6_1.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta7_5.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.cache
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.CoreCompileInputs.cache
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta2_3.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta2_3b.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta2_4.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta2_5.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta3_1.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta3_2.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta3_4.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta3_10.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta3_12.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta3_13.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta3_5.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta3_6.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta3_7.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta3_9.resources
+D:\dersler\goruntu_isleme\son hali\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.hafta7_1.resources

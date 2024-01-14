@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{78242C62-2541-4BD1-910D-D1253B199861}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GoruntuIsleme</RootNamespace>
+    <AssemblyName>GoruntuIsleme</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Fhafta10_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fhafta10_1.Designer.cs">
+      <DependentUpon>Fhafta10_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta1_7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta1_7.Designer.cs">
+      <DependentUpon>hafta1_7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta1_8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta1_8.Designer.cs">
+      <DependentUpon>hafta1_8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta2_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta2_3.Designer.cs">
+      <DependentUpon>hafta2_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta2_3b.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta2_3b.Designer.cs">
+      <DependentUpon>hafta2_3b.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta2_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta2_4.Designer.cs">
+      <DependentUpon>hafta2_4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta2_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta2_5.Designer.cs">
+      <DependentUpon>hafta2_5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta3_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta3_1.Designer.cs">
+      <DependentUpon>hafta3_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta3_10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta3_10.Designer.cs">
+      <DependentUpon>hafta3_10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta3_11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta3_11.Designer.cs">
+      <DependentUpon>hafta3_11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta3_12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta3_12.Designer.cs">
+      <DependentUpon>hafta3_12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta3_13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta3_13.Designer.cs">
+      <DependentUpon>hafta3_13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta3_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta3_2.Designer.cs">
+      <DependentUpon>hafta3_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta3_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta3_3.Designer.cs">
+      <DependentUpon>hafta3_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta3_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta3_4.Designer.cs">
+      <DependentUpon>hafta3_4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta3_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta3_5.Designer.cs">
+      <DependentUpon>hafta3_5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta3_6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta3_6.Designer.cs">
+      <DependentUpon>hafta3_6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta3_7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta3_7.Designer.cs">
+      <DependentUpon>hafta3_7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta3_9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta3_9.Designer.cs">
+      <DependentUpon>hafta3_9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta4_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta4_1.Designer.cs">
+      <DependentUpon>hafta4_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta5_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta5_1.Designer.cs">
+      <DependentUpon>hafta5_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta5_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta5_2.Designer.cs">
+      <DependentUpon>hafta5_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta5_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta5_3.Designer.cs">
+      <DependentUpon>hafta5_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta5_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta5_4.Designer.cs">
+      <DependentUpon>hafta5_4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta5_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta5_5.Designer.cs">
+      <DependentUpon>hafta5_5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form18.Designer.cs">
+      <DependentUpon>Form18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form19.Designer.cs">
+      <DependentUpon>Form19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta1_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta1_1.Designer.cs">
+      <DependentUpon>hafta1_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta10_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta10_2.Designer.cs">
+      <DependentUpon>hafta10_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta10_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta10_3.Designer.cs">
+      <DependentUpon>hafta10_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta10_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta10_4.Designer.cs">
+      <DependentUpon>hafta10_4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta2_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta2_1.Designer.cs">
+      <DependentUpon>hafta2_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta2_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta2_2.Designer.cs">
+      <DependentUpon>hafta2_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta5_7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta5_7.Designer.cs">
+      <DependentUpon>hafta5_7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta1_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta1_2.Designer.cs">
+      <DependentUpon>hafta1_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta1_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta1_3.Designer.cs">
+      <DependentUpon>hafta1_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta1_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta1_4.Designer.cs">
+      <DependentUpon>hafta1_4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta1_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta1_5.Designer.cs">
+      <DependentUpon>hafta1_5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta1_6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta1_6.Designer.cs">
+      <DependentUpon>hafta1_6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta5_6a.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta5_6a.Designer.cs">
+      <DependentUpon>hafta5_6a.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta6_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta6_1.Designer.cs">
+      <DependentUpon>hafta6_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta7_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta7_1.Designer.cs">
+      <DependentUpon>hafta7_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hafta7_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hafta7_5.Designer.cs">
+      <DependentUpon>hafta7_5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Fhafta10_1.resx">
+      <DependentUpon>Fhafta10_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta1_7.resx">
+      <DependentUpon>hafta1_7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta1_8.resx">
+      <DependentUpon>hafta1_8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta2_3.resx">
+      <DependentUpon>hafta2_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta2_3b.resx">
+      <DependentUpon>hafta2_3b.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta2_4.resx">
+      <DependentUpon>hafta2_4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta2_5.resx">
+      <DependentUpon>hafta2_5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta3_1.resx">
+      <DependentUpon>hafta3_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta3_10.resx">
+      <DependentUpon>hafta3_10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta3_12.resx">
+      <DependentUpon>hafta3_12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta3_13.resx">
+      <DependentUpon>hafta3_13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta3_2.resx">
+      <DependentUpon>hafta3_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta3_4.resx">
+      <DependentUpon>hafta3_4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta3_5.resx">
+      <DependentUpon>hafta3_5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta3_6.resx">
+      <DependentUpon>hafta3_6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta3_7.resx">
+      <DependentUpon>hafta3_7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta3_9.resx">
+      <DependentUpon>hafta3_9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta5_1.resx">
+      <DependentUpon>hafta5_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta5_2.resx">
+      <DependentUpon>hafta5_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta5_3.resx">
+      <DependentUpon>hafta5_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta5_4.resx">
+      <DependentUpon>hafta5_4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta5_5.resx">
+      <DependentUpon>hafta5_5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form18.resx">
+      <DependentUpon>Form18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form19.resx">
+      <DependentUpon>Form19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta1_1.resx">
+      <DependentUpon>hafta1_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta1_2.resx">
+      <DependentUpon>hafta1_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta1_3.resx">
+      <DependentUpon>hafta1_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta1_4.resx">
+      <DependentUpon>hafta1_4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta1_5.resx">
+      <DependentUpon>hafta1_5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta1_6.resx">
+      <DependentUpon>hafta1_6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta10_2.resx">
+      <DependentUpon>hafta10_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta10_3.resx">
+      <DependentUpon>hafta10_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta10_4.resx">
+      <DependentUpon>hafta10_4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta2_1.resx">
+      <DependentUpon>hafta2_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta2_2.resx">
+      <DependentUpon>hafta2_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta5_6a.resx">
+      <DependentUpon>hafta5_6a.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta5_7.resx">
+      <DependentUpon>hafta5_7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta6_1.resx">
+      <DependentUpon>hafta6_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta7_1.resx">
+      <DependentUpon>hafta7_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hafta7_5.resx">
+      <DependentUpon>hafta7_5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\DataSources\Form2.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manzara.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\izgara.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saltandpepperlena-300x300.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-birds-the-most-colorful-birds-of-the-world-image_2579506.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
